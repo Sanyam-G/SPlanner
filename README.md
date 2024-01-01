@@ -21,7 +21,7 @@ SPlanner is a mobile application tailored for students, designed to facilitate e
 
 SPlanner is available for Android devices. To install the app:
 
-1. Download the `SPlanner.apk` file from the GitHub repository.
+1. Download the [`SPlanner.apk`](https://github.com/Sanyam-G/SPlanner/blob/main/SPlanner.apk) file from the GitHub repository.
 2. On your Android device, locate the downloaded APK file and tap it to begin installation. 
 3. If prompted, allow installation from unknown sources.
 4. Follow the on-screen instructions to complete the installation.
