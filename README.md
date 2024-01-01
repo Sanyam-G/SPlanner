@@ -30,10 +30,6 @@ SPlanner is available for Android devices. To install the app:
 
 Your contributions to enhance and improve SPlanner are always welcome. If you have suggestions or improvements, please feel free to reach out or submit a pull request.
 
-## License
-
-SPlanner is released under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 
 Have questions or want to get in touch? Email me at [sanyamg@icloud.com](mailto:sanyamg@icloud.com).
