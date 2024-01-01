@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "538433517933",
+    "firebase_url": "https://computer-science-ia-bd554-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "computer-science-ia-bd554",
+    "storage_bucket": "computer-science-ia-bd554.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538433517933:android:01c5bec6d5285b4ac34264",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538433517933-9tohgsbup4ame3gtqqshr92m3aai96ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhv5k_sfKPr4VqQzi2OQ8O-Ze4-HlwTP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538433517933-9tohgsbup4ame3gtqqshr92m3aai96ni.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "538433517933-ijbgffrdm1q0ognbecu9j5s7islsimit.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sanyamgcompsciia.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
