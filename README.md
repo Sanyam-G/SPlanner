@@ -1,16 +1,40 @@
-# untitled
+# SPlanner - Student Planner Application
 
-A new Flutter project.
+SPlanner is a mobile application tailored for students, designed to facilitate efficient task management and academic scheduling. Developed using Flutter and Dart, SPlanner offers a streamlined, user-friendly interface to enhance organizational productivity.
 
-## Getting Started
+## Key Features
 
-This project is a starting point for a Flutter application.
+- **Intuitive Interface**: Easy-to-use interface for seamless navigation and task management.
+- **Task Management**: Add, edit, and track various academic tasks and assignments.
+- **Academic Calendar**: Integrated calendar to help plan and organize academic schedules.
+- **Alerts for Overdue Tasks**: Timely notifications for overdue tasks to help you stay on track.
+- **Note Management**: Handy feature for managing important notes and information.
+- **Cross-Device Synchronization**: Ensures your data is consistent and accessible across multiple devices.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter & Dart**: For a smooth, cross-platform mobile development experience.
+- **Firebase Authentication**: Secure user sign-in and authentication process.
+- **Firebase Cloud Firestore**: Real-time database for storing and managing user data.
+- **Provider Package**: Utilized for efficient state management within the app.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+SPlanner is available for Android devices. To install the app:
+
+1. Download the `SPlanner.apk` file from the GitHub repository.
+2. On your Android device, locate the downloaded APK file and tap it to begin installation. 
+3. If prompted, allow installation from unknown sources.
+4. Follow the on-screen instructions to complete the installation.
+
+## Contributing
+
+Your contributions to enhance and improve SPlanner are always welcome. If you have suggestions or improvements, please feel free to reach out or submit a pull request.
+
+## License
+
+SPlanner is released under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contact
+
+Have questions or want to get in touch? Email me at [sanyamg@icloud.com](mailto:sanyamg@icloud.com).
