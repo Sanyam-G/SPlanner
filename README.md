@@ -6,8 +6,7 @@ SPlanner is a mobile application tailored for students, designed to facilitate e
 
 - **Intuitive Interface**: Easy-to-use interface for seamless navigation and task management.
 - **Task Management**: Add, edit, and track various academic tasks and assignments.
-- **Academic Calendar**: Integrated calendar to help plan and organize academic schedules.
-- **Alerts for Overdue Tasks**: Timely notifications for overdue tasks to help you stay on track.
+- **Academic Class Scheduler**: Integrated class scheduler to help plan and organize academic schedules.
 - **Note Management**: Handy feature for managing important notes and information.
 - **Cross-Device Synchronization**: Ensures your data is consistent and accessible across multiple devices.
 
