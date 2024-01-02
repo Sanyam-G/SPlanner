@@ -30,6 +30,18 @@ SPlanner is available for Android devices. To install the app:
 
 Your contributions to enhance and improve SPlanner are always welcome. If you have suggestions or improvements, please feel free to reach out or submit a pull request.
 
+## Improvements
+
+Future development ideas for SPlanner include:
+
+- **Advanced Task Prioritization**: Implement an algorithm for auto-prioritizing tasks based on deadlines and user preferences.
+- **Customizable Themes**: Allow users to customize the app’s appearance with different themes.
+- **Integration with Phone Calendar**: Implement sync with the user's phone calendar to allow better accessibility of to-do lists.
+
+## Issues
+
+- **State Navigation Bugs**: Some pages' navigation routes are not set up correctly, causing the back button to not work
+
 ## Contact
 
 Have questions or want to get in touch? Email me at [sanyamg@icloud.com](mailto:sanyamg@icloud.com).
